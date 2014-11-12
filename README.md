@@ -20,6 +20,15 @@ Team Members
 ####Description
 A simple anonymous blog with SQL and no cookies
 <br>https://github.com/RzhanRichardZhan/Bloglite.git
+###Super Ebay (API)
+Team Member
+* Sean Yip
+
+####Description
+Analyzes search queries and gives options to narrow down the query.
+<br>Also provides some statistics
+<br>REQUIRES STATISTICS.PY Please pip install statistics
+<br>https://github.com/RzhanRichardZhan/syrzAPI.git
 ##Mini Projects
 * Jinja2/Flask Pokemon Data
   * Richard Zhan, Steven Zabolotny
