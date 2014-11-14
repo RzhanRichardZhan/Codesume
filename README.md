@@ -29,6 +29,8 @@ Analyzes search queries and gives options to narrow down the query.
 <br>Also provides some statistics
 <br>REQUIRES STATISTICS.PY Please pip install statistics
 <br>https://github.com/RzhanRichardZhan/syrzAPI.git
+<br>The last commit actually disables the second search bar.
+<br>Last Commit: https://github.com/RzhanRichardZhan/justincase.git
 ##Mini Projects
 * Jinja2/Flask Pokemon Data
   * Richard Zhan, Steven Zabolotny
