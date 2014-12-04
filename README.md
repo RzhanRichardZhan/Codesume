@@ -45,5 +45,7 @@ Analyzes search queries and gives options to narrow down the query.
   * Richard Zhan, Albert Yeung
   * 7/mongoproj/albert-richard
   * Read README for Commit History
-
+* Javascript Invisible Cow
+  * Richard Zhan, Albert Yeung
+  * 7/cow/albert-richard
 
